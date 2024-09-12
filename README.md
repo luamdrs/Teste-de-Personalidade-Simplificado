@@ -3,16 +3,15 @@
 
 ### Objetivo:
 
-Realizar um teste de personalidade básico com apenas 5 perguntas e retorna um resumo simples sobre a personalidade do usuário.
+Realizar um teste de personalidade básico com apenas 3 perguntas e retorna um resumo simples sobre o perfil do usuário.
 
 #
 
 ### Estrutura do Programa:
 
 * Uma função para cadastrar o nome do usuário.
-* Uma função que realiza 5 perguntas sobre a personalidade.
-* Com base nas respostas, o sistema dá uma descrição simplificada do perfil de personalidade.
-
+* Uma função que realiza 3 perguntas sobre o perfil do usuário.
+* Uma função que gera o perfil de acordo com a palavra digitada. Automaticamente, o sistema dá uma descrição simplificada do perfil de personalidade.
 
 #
 
